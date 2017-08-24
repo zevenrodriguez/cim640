@@ -11,3 +11,4 @@ Here is another message
 ##### [zeven's site](http://www.zevenrodriguez.com)
 
 
+[link to week1 assignments page](https://github.com/zevenrodriguez/cim640/tree/master/week1)
